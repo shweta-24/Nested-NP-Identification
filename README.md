@@ -16,5 +16,7 @@ Nested noun phrase identification in English and Swedish sentences using BERT.
   2. Run the files 'evaluate_BERT.py' and 'evaluate_SWE_BERT.py' in the Code folder to obtain evaluation results and relevant plots. Follow comments in the code to appropriately name the plots.
 
 # Project completed as part of Master's thesis at KTH, Stockholm.
-## Entire thesis can be found at https://kth.diva-portal.org/smash/record.jsf?dswid=-7763&pid=diva2%3A1824001&c=1&searchType=SIMPLE&language=en&query=nested+noun&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all
+Entire thesis can be found at 
+https://kth.diva-portal.org/smash/record.jsf?dswid=-7763&pid=diva2%3A1824001&c=1&searchType=SIMPLE&language=en&query=nested+noun&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all
+
 
